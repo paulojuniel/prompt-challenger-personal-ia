@@ -30,7 +30,7 @@ Peso Livre : Exercícios com pesos livres, como halteres e barras, para trabalha
 Cardio : Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.
 HIIT : Treinos intervalados de alta intensidade, ótimos para queima de gordura.
 
-#Conteúdos auxiliares
+# Conteúdos auxiliares
 ao menos 1 ou 2 vídeos do Youtube para referência ao exercícios do plano de treino
 ao menos 1 ou 2 gifs do Pinterest para referência ao exercícios do plano de treino
 
